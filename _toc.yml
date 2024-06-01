@@ -1,0 +1,17 @@
+# Table of contents
+format: jb-book
+root: intro
+chapters:
+  - file: chapter1
+    sections:
+      - file: chapter1/chapter1_notebook1
+      - file: chapter1/chapter1_notebook2
+  - file: chapter2
+    sections:
+      - file: chapter2/chapter2_notebook1
+      - file: chapter2/chapter2_notebook2
+  - file: chapter3
+    sections:
+      - file: chapter3/chapter3_notebook1
+      - file: chapter3/chapter3_notebook2
+  - file: conclusion
